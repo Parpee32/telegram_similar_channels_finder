@@ -22,10 +22,10 @@ __version__ = "1.0.0"
 __status__ = "Dev"
 
 # API ID: Your unique Telegram API ID. You can get this from https://my.telegram.org
-API_ID = XXXXXXXX
+API_ID = 25761527
 
 # API Hash: Your unique Telegram API Hash. You can get this from https://my.telegram.org
-API_HASH = ''
+API_HASH = '9d5391d126e4ed2a69d64662918acfb5'
 
 # Session File Name: The name of the session file to be used by Telethon.
 # This file stores your login session to avoid re-logging in.
@@ -38,7 +38,7 @@ PROXY = ('http', 'proxy.example.com', 3128)
 # CHANNELS: List of Telegram channel usernames to find similar channels for.
 # Replace the values with the usernames of the channels you are interested in.
 # The channel username can be found in the channel's invitation link, e.g., "redteamalerts" in "https://t.me/redteamalerts".
-CHANNELS = ['cibsecurity','CyberSecurityTechnologies','socanalyst']
+CHANNELS = ['https://t.me/+K7830ghiNfk2NzJh']
 
 def print_header():
     """
